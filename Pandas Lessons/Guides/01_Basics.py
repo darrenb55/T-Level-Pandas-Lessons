@@ -87,6 +87,7 @@ print("")
 print("in pandas you can do this:\n")
 mySeries += 5
 print(mySeries)
+
 print("#"*10)
 input()
 
