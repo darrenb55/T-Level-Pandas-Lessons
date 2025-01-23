@@ -22,6 +22,7 @@ print("   in this series, the index is a list of letters from 'a' to 'e'")
 print("3 - the name")
 print("   in this series, the name is 'example'\n")
 
+#prints data MySeries
 print(mySeries)
 print("#"*10)
 input()
